@@ -39,7 +39,7 @@ src/
 1. Make sure you have **Node.js** installed (v16+ recommended).
 2. Clone this repository and move into the folder:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/totoseahlumile-dot/property-mini-listings.git
    cd property-mini-listings
    ```
 3. Install dependencies:
@@ -50,13 +50,14 @@ src/
    ```bash
    npm run dev
    ```
-5. Open the URL shown in the terminal (usually `http://localhost:5173`).
+5. Open the URL shown in the terminal 
 
 ## Screenshot
 
-> Add a screenshot of the running app here, e.g.:
+> 
 >
-> ![Homes & Beyond screenshot](./screenshot.png)
+> <img width="1618" height="856" alt="image" src="https://github.com/user-attachments/assets/8702090c-f2f8-4983-921b-191bf0a41fe9" />
+
 
 ## Notes / things I'd improve with more time
 
@@ -67,4 +68,4 @@ src/
 ## Submission
 
 - Repository name: `property-mini-listings`
-- Built as part of Module 1 – Frontend Web Development, Exercise 03.
+  
