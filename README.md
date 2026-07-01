@@ -1,4 +1,4 @@
-# Property Mini-Listings 🏡
+# Property Mini-Listings 
 
 A small Vue 3 single-page app built for **Module 1 – Exercise 03** (Life Choices Academy).
 It shows a fictional Cape Town short-term rental brand, "Homes & Beyond", with a
